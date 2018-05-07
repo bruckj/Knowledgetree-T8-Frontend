@@ -1,0 +1,60 @@
+﻿{
+  "configure": {
+    "enabled": false,
+    "showButton": false,
+    "filter": false
+  },
+  "nodes": {
+    "borderWidth": 2,
+    "borderWidthSelected": 3,
+    "heightConstraint": false,
+    "labelHighlightBold": true,
+    "margin": 5,
+    "shadow": false,
+    "font": {
+      "color": "#FFFFFF",
+      "face": "arial",
+      "align": "center"
+    },
+    "color": {
+      "background": "#0000FF",
+      "highlight": "#2E2EFE",
+      "hover": "#0101DF"
+    }
+  },
+  "edges": {
+    "smooth": {
+      "type": "dynamic",
+      "roundness": 0.6
+    },
+    "hoverWidth": 1.7,
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 1.5,
+        "type": "arrow"
+      },
+      "middle": false,
+      "from": false
+    },
+    "arrowStrikethrough": false,
+    "chosen": true,
+    "color": {
+      "color": "#610B0B",
+      "highlight": "#190707",
+      "hover": "#2A0A0A"
+    },
+    "shadow": false
+  },
+  "interaction": {
+    "hover": true,
+    "dragNodes": true,
+    "dragView": true,
+    "multiselect": false,
+    "hideEdgesOnDrag": true,
+    "hideNodesOnDrag": false,
+    "keyboard": false,
+    "navigationButtons": false,
+    "zoomView": true
+  }
+}

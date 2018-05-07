@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Mighty Tree of Sience</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="300">
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="icon" type="image/png" href="logo-new.png">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/graphscripts")
+    @Scripts.Render("~/bundles/jquery")
+    @*Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("Scripts", required: false)*@
+</head>
+<!--onload function calls the right js script to get the graph-->
+<body>
+    <div class="container body-content">
+        @RenderBody()
+        @*RenderSection("SPAViews", required: false)*@
+    </div>    
+</body>
+</html>
