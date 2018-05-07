@@ -1,0 +1,66 @@
+﻿{
+  "result": [
+    {
+      "@type": "d",
+      "@rid": "#19:0",
+      "@version": 1,
+      "@class": "Document",
+      "out_": [ "#13:0", "#14:0" ],
+      "venue": "Inteligencia Artificial, Revista Iberoamericana de Inteligencia Artificial",
+      "issue": "29",
+      "year": 2000,
+      "isbn": "0020-7136",
+      "page_stat": "11",
+      "doc_type": "book",
+      "abstract": "Our ability to generate and collect data has been increasing rapidly. Not only are all of our business, scientific, and government transactions now computerized, but the widespread use of digital cameras, publication tools, and bar codes also generate data. On the collection side, scanned text and image platforms, satellite remote sensing systems, and the World Wide Web have flooded us with a tremendous amount of data. This explosive growth has generated an even more urgent need for new techniques and automated tools that can help us transform this data into useful information and knowledge. Like the first edition, voted the most popular data mining book by KD Nuggets readers, this book explores concepts and techniques for the discovery of patterns hidden in large data sets, focusing on issues relating to their feasibility, usefulness, effectiveness, and scalability. However, since the publication of the first edition, great progress has been made in the development of new data mining methods, systems, and applications. This new edition substantially enhances the first edition, and new chapters have been added to address recent developments on mining complex types of data? including stream data, sequence data, graph structured data, social network data, and multi-relational data.",
+      "title": "Data mining: concepts and techniques",
+      "n_citation": 29790,
+      "url": "https://www.hu.wikipedia.org/wiki/Adatb%C3%A1ny%C3%A1szat",
+      "volume": "10",
+      "pdf": "//static.aminer.org/upload/pdf/1254/ 370/239/53e9ab9eb7602d970354a97e.pdf",
+      "page_end": "18",
+      "issn": "0020-7136",
+      "publisher": "Elsevier",
+      "lang": "en",
+      "doi": "10.4114/ia.v10i29.873"
+    },
+    {
+      "@rid": "#13:0",
+      "out_": [ "#20:0" ],
+      "title": "Próba 13",
+      "url": "https://www.hu.wikipedia.org/wiki/T-pr%C3%B3ba"
+    },
+    {
+      "@rid": "#14:0",
+      "out_": [ "#20:0" ],
+      "title": "Fuzzy Logic",
+      "url": "https://www.hu.wikipedia.org/wiki/Fuzzy_Logic"
+    },
+    {
+      "@type": "d",
+      "@rid": "#20:0",
+      "@version": 1,
+      "@class": "Document",
+      "in_": [ "#13:0", "#14:0" ],
+      "venue": "1",
+      "issue": "2",
+      "year": 3,
+      "isbn": "4",
+      "page_stat": "5",
+      "authorsname": "6",
+      "doc_type": "7",
+      "abstract": "8",
+      "title": "Tree of Sience",
+      "n_citation": 10,
+      "authorsorg": "11",
+      "url": "https://www.en.wikipedia.org/wiki/Tree_of_Science_(Ramon_Llull)",
+      "volume": "13",
+      "pdf": "14",
+      "page_end": "15",
+      "issn": "16",
+      "publisher": "17",
+      "lang": "18",
+      "doi": "19"
+    }
+  ]
+}

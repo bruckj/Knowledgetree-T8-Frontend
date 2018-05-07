@@ -1,0 +1,13 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\JSONTest.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\JSONTest.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\JSONTest.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\obj\Debug\JSONTest.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\obj\Debug\JSONTest.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\obj\Debug\JSONTest.csproj.CopyComplete
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\obj\Debug\JSONTest.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\obj\Debug\JSONTest.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\RestSharp.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\System.ValueTuple.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\TheMightyTreeOfSienceV2\JSONTest\bin\Debug\System.ValueTuple.xml

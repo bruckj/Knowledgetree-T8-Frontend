@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "Title": "Euler Theory",
+    "Author": "Euler",
+    "Topic": [ "Math" ],
+    "Publication": "New waves",
+    "Keywords": [ "prime", "math" ]
+  },
+  {
+    "id": 1,
+    "Title": "A prime",
+    "Author": "Riemann",
+    "Topic": [ "Math", "Psychology" ],
+    "Publication": "Prime myth",
+    "Keywords": ["prime", "math", "hypotesis"]
+  },
+  {
+    "id": 2,
+    "Title": "Math and people",
+    "Author": "Freud",
+    "Topic": ["Philosophy"],
+    "Publication": "Calculate your life",
+    "Keywords": [ "philosophy"," numbers", "lifestyle"]
+  },
+  {
+    "id": 3,
+    "Title": "How to teach",
+    "Author":  "Platon",
+    "Topic": ["Philosophy"],
+    "Publication": "Education is the first",
+    "Keywords": ["teach", "math", "culture"]
+  },
+  {
+    "id": 4,
+    "Title": "Living in the cosmos",
+    "Author": "Hawking",
+    "Topic": [ "Physics", "Math" ],
+    "Publication": "Out of space",
+    "Keywords": [ "space", "black hole", "relativity" ]
+  },
+  {
+    "id": 5,
+    "Title": "Relativity theory",
+    "Author": "Einstein",
+    "Topic": ["Physics", "Math"],
+    "Publication": "Energy from a new view",
+    "Keywords": [ "relativity", "energy", "speed of light" ]
+  },
+  {
+    "id": 6,
+    "Title": "Userfriendly programming",
+    "Author": "Jobs",
+    "Topic": [ "IT", "Philosophy" ],
+    "Publication": "Make computer userfriendly",
+    "Keywords": ["mac", "teach", "computer"]
+  },
+  {
+    "id": 7,
+    "Title": "Build an operate system",
+    "Author": "Gates",
+    "Topic": [ "IT" , "Math" ],
+    "Publication": "Operate system for the people",
+    "Keywords": [ "OS", "function", "programming" ]
+  },
+  {
+    "id": 8,
+    "Title": "Live like a monkey",
+    "Author": "Darwin",
+    "Topic": [ "Biology", "Math" ],
+    "Publication": "Learn how we built",
+    "Keywords": [ "genesis", "math", "teach" ]
+  },
+  {
+    "id": 9,
+    "Title": "Mobile is the new computer",
+    "Author": "Jobs",
+    "Topic": ["IT", "sociology"],
+    "Publication": "Think big do it bigger",
+    "Keywords": [ "programming", "OS", "culture", "lifestyle" ]
+  }
+]
